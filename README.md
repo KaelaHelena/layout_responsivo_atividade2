@@ -1,6 +1,6 @@
-# myapp
+# My First WebApp
 
-Sistema desenvolvido como atividade vinculada ao módulo 2 do curso desenvolvimento Web.
+Sistema desenvolvido direcionado para a 2 Atividade do Modulo 11.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
